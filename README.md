@@ -25,7 +25,7 @@ HostTracer is a powerful Python tool designed to quickly identify the **name ser
 
 ### 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/HostTracer.git
+git clone https://github.com/NightfallSecDev/HostTracer.git
 cd HostTracer
 ```
 
